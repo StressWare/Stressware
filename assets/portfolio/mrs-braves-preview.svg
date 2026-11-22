@@ -1,0 +1,59 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#faf9fc"/>
+
+  <!-- Browser chrome -->
+  <rect x="50" y="30" width="700" height="440" rx="8" fill="white" stroke="#e4dcee" stroke-width="2"/>
+  <rect x="50" y="30" width="700" height="40" rx="8" fill="#f3f0f8" stroke="#e4dcee" stroke-width="2"/>
+  <circle cx="75" cy="50" r="7" fill="#ff5f57"/>
+  <circle cx="100" cy="50" r="7" fill="#febc2e"/>
+  <circle cx="125" cy="50" r="7" fill="#28ca42"/>
+  <rect x="300" y="42" width="200" height="16" rx="8" fill="#e4dcee"/>
+
+  <!-- Header -->
+  <rect x="70" y="100" width="660" height="80" fill="#2a1e4d" rx="8"/>
+  <text x="100" y="145" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="white">Mrs. Brave's Cakes</text>
+  <text x="100" y="170" font-family="system-ui, sans-serif" font-size="14" fill="#a89de0">Custom cakes for every occasion • Iloilo City</text>
+
+  <!-- Nav pills -->
+  <rect x="70" y="210" width="120" height="36" rx="18" fill="#8b7cc7"/>
+  <text x="130" y="234" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="white" text-anchor="middle">Home</text>
+  <rect x="210" y="210" width="100" height="36" rx="18" fill="#e4dcee"/>
+  <text x="260" y="234" font-family="system-ui, sans-serif" font-size="13" font-weight="500" fill="#513b8c" text-anchor="middle">Cakes</text>
+  <rect x="330" y="210" width="120" height="36" rx="18" fill="#e4dcee"/>
+  <text x="390" y="234" font-family="system-ui, sans-serif" font-size="13" font-weight="500" fill="#513b8c" text-anchor="middle">Gallery</text>
+  <rect x="470" y="210" width="130" height="36" rx="18" fill="#e4dcee"/>
+  <text x="535" y="234" font-family="system-ui, sans-serif" font-size="13" font-weight="500" fill="#513b8c" text-anchor="middle">Order Now</text>
+  <rect x="620" y="210" width="100" height="36" rx="18" fill="#e4dcee"/>
+  <text x="670" y="234" font-family="system-ui, sans-serif" font-size="13" font-weight="500" fill="#513b8c" text-anchor="middle">Contact</text>
+
+  <!-- Cake cards -->
+  <g fill="white" stroke="#e4dcee" stroke-width="1">
+    <!-- Card 1 -->
+    <rect x="70" y="280" width="195" height="180" rx="12"/>
+    <rect x="80" y="290" width="175" height="100" rx="8" fill="#f3f0f8"/>
+    <text x="167.5" y="360" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#2a1e4d" text-anchor="middle">Chocolate Fudge</text>
+    <text x="167.5" y="380" font-family="system-ui, sans-serif" font-size="13" fill="#8b7cc7" text-anchor="middle">₱850 • 8-inch</text>
+    <rect x="100" y="405" width="135" height="36" rx="18" fill="#8b7cc7"/>
+    <text x="167.5" y="429" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="white" text-anchor="middle">Add to Order</text>
+
+    <!-- Card 2 -->
+    <rect x="295" y="280" width="195" height="180" rx="12"/>
+    <rect x="305" y="290" width="175" height="100" rx="8" fill="#f3f0f8"/>
+    <text x="392.5" y="360" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#2a1e4d" text-anchor="middle">Red Velvet</text>
+    <text x="392.5" y="380" font-family="system-ui, sans-serif" font-size="13" fill="#8b7cc7" text-anchor="middle">₱950 • 8-inch</text>
+    <rect x="325" y="405" width="135" height="36" rx="18" fill="#8b7cc7"/>
+    <text x="392.5" y="429" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="white" text-anchor="middle">Add to Order</text>
+
+    <!-- Card 3 -->
+    <rect x="520" y="280" width="195" height="180" rx="12"/>
+    <rect x="530" y="290" width="175" height="100" rx="8" fill="#f3f0f8"/>
+    <text x="617.5" y="360" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#2a1e4d" text-anchor="middle">Ube Cheese</text>
+    <text x="617.5" y="380" font-family="system-ui, sans-serif" font-size="13" fill="#8b7cc7" text-anchor="middle">₱900 • 8-inch</text>
+    <rect x="550" y="405" width="135" height="36" rx="18" fill="#8b7cc7"/>
+    <text x="617.5" y="429" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="white" text-anchor="middle">Add to Order</text>
+  </g>
+
+  <!-- Footer hint -->
+  <text x="400" y="485" font-family="system-ui, sans-serif" font-size="11" fill="#9a8db8" text-anchor="middle">Stressware Demo — Mobile-first • Formspree Forms • Render Deploy</text>
+</svg>
